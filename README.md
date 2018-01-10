@@ -1,5 +1,5 @@
 # unists - WebService para TextMining
-Web Service JAVA que integra recursos para Processamento de Linguagem Natural desenvolvido como parte do fluxo para utilização na web no trabalho em [unist](https://github.com/albarsil/unists).
+Web Service JAVA que integra recursos para Processamento de Linguagem Natural desenvolvido como parte do fluxo para utilização na web no trabalho em [unists](https://github.com/albarsil/unists).
 
 
 ## Trabalhos publicados:
